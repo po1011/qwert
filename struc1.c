@@ -22,7 +22,7 @@ struct student
 
       printf("the name of the student is %s",s.name);
       printf("roll no. %d",s.roll);
-      printf("marks obtained is %f",s.marks);
+      printf("marks obtained is %f",s.marks);  //naice
  }
  void main()
  {
